@@ -1,0 +1,6 @@
+{
+    "code-runner.runInTerminal": false,
+    "code-runner.executorMap": {
+        "dart": "\"D:\\Flutter tools\\FlutterSDK\\flutter\\bin\\cache\\dart-sdk\\bin\\dart.exe\"",
+    }
+}
