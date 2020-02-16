@@ -2,7 +2,7 @@
 *Improve code for **Dart Lang**:*
 Run code with [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-  ## Stream
+## Stream
 
   - [Demo_Stream](https://github.com/huubao2309/practice_dart_lang/tree/master/practise_dart/lib/stream)
   ![Stream](/image/Stream.png)
@@ -21,11 +21,11 @@ Run code with [Code Runner](https://marketplace.visualstudio.com/items?itemName=
 
 * [Broadcast Stream](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/stream/broadcast_stream.dart)
 
-  ## Observer Pattern
+## Observer Pattern
   [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
   ![Observer Pattern](/image/observer_pattern.png)
   
-  * [Setup Observer Pattern](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/observer_pattern/observer_pattern.dart)
+* [Setup Observer Pattern](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/observer_pattern/observer_pattern.dart)
   
 
 
