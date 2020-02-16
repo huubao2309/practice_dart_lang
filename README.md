@@ -1,7 +1,9 @@
 # Improve Code `Dart` Lang
-Improve code for Dart Lang:
+*Improve code for **Dart Lang**:*
 
   ## Stream
+
+  - [Demo_Stream](https://github.com/huubao2309/practice_dart_lang/tree/master/practise_dart/lib/stream)
   ![Stream](/image/Stream.png)
 
 * [Stream - Feature](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/stream/use_stream_future.dart)
@@ -24,4 +26,4 @@ Improve code for Dart Lang:
 ## Feature
 ## ....
 
-Demo and Code
+
