@@ -23,9 +23,9 @@ Run code with [Code Runner](https://marketplace.visualstudio.com/items?itemName=
 
   ## Observer Pattern
   [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-  ![Observer Pattern](/image/Stream.png)
+  ![Observer Pattern](/image/observer_pattern.png)
   
-  * [Setup Observer Pattern](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/stream/use_stream_future.dart)
+  * [Setup Observer Pattern](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/observer_pattern/observer_pattern.dart)
   
 
 
