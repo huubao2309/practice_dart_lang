@@ -3,7 +3,7 @@
 
 Run code with [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-## Stream
+## 1. Stream
 
   - [Demo_Stream](https://github.com/huubao2309/practice_dart_lang/tree/master/practise_dart/lib/stream)
   ![Stream](/image/Stream.png)
@@ -22,7 +22,7 @@ Run code with [Code Runner](https://marketplace.visualstudio.com/items?itemName=
 
 * [Broadcast Stream](https://github.com/huubao2309/practice_dart_lang/blob/master/practise_dart/lib/stream/broadcast_stream.dart)
 
-## Observer Pattern
+## 2. Observer Pattern
   [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
   ![Observer Pattern](/image/observer_pattern.png)
   
@@ -30,9 +30,9 @@ Run code with [Code Runner](https://marketplace.visualstudio.com/items?itemName=
   
 
 
-## Collection
-## Asyncronous
-## Feature
+## 3. Collection
+## 4. Asyncronous
+## 5. Feature
 ## ....
 
 
