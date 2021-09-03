@@ -13,8 +13,8 @@ abstract class Subject {
 
 class DemoObserverPattern<T> implements Subject {
   // Properties
-  List<Observer> subcribers = List<Observer>();
-  List<String> data = List<String>();
+  List<Observer> subcribers = <Observer>[];
+  List<String> data = <String>[];
 
   @override
   void notify() {
